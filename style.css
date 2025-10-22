@@ -12,6 +12,11 @@
   text-align: right;
 }
 
+.eisenhower-matrix__h1 {
+  visibility: hidden;
+  position: absolute;
+}
+
 .eisenhower-matrix__img {
   width: 100%;
 }
